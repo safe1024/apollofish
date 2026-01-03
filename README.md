@@ -212,6 +212,7 @@ panel:
 ### 上线通知(下版本发布)
 
 
-## 交流群
+## 技术交流群
 ![alt text](wiki-image/wxqun.png)
+![alt text](wiki-image/wxqun2.png)
 ![alt text](wiki-image/wxgood.png)
