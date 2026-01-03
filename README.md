@@ -43,8 +43,11 @@
 
 ### 运行命令
 命令行执行，例如: 
-> ./ApolloFish_windows_amd64.exe
+> ./ApolloFish_v1.0.0_windows_amd64.exe
+<br>
+
 ![alt text](wiki-image/image.png)
+<br>
 首次运行，会在同目录下生成config.yaml文件，并随机生成后台路径、登录账号、登录密码。请前往config.yaml文件中查看。<br>
 
 ```
@@ -207,3 +210,8 @@ panel:
 ### 系统设置(下版本发布)
 
 ### 上线通知(下版本发布)
+
+
+## 交流群
+![alt text](wiki-image/wxqun.png)
+![alt text](wiki-image/wxgood.png)
