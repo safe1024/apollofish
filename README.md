@@ -56,10 +56,10 @@ panel:
 使用浏览器访问平台后台，访问路径: http://127.0.0.1:{panel.port}/{panel.path}/<br>
 
 ## 功能说明
-![image-20260103235226802](image-20260103235226802.png)
+![image-20260103235226802](wiki-image\image-20260103235226802.png)
 
 ### 首页大屏
-![image-20260103235021911](image-20260103235021911.png)
+![image-20260103235021911](wiki-image\image-20260103235021911.png)
 
 ### 网页模板
 
@@ -139,12 +139,12 @@ panel:
 平台会自动识别input组件，并将当前页面中所有的input的参数都进行记录。所以拓展性非常自由，input中的name值可以自定义、input组件的数量也可多可少。
 
 网页模板创建方式：
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
+![alt text](wiki-image\image-4.png)
+![alt text](wiki-image\image-5.png)
+![alt text](wiki-image\image-6.png)
+![alt text](wiki-image\image-7.png)
 已经创建成功，可点击预览查看效果。
-![alt text](image-8.png)
+![alt text](wiki-image\image-8.png)
 
 这个预览功能仅管理员可见，用于预览你的HTML页面。如需创建到互联网，请点击左侧菜单中的"网页钓鱼"按钮，并参考下面的使用手册。
 
@@ -154,32 +154,32 @@ panel:
 > 支持IP访问或域名访问<br>
 > 支持配置https证书，实现加密访问<br>
 
-![alt text](image-10.png)
+![alt text](wiki-image\image-10.png)
 
 
 ### 邮箱模板
 平台内置了一些常见的钓鱼演练模板，您可以直接选择使用。也可以在此创建您自己的钓鱼模板，创建方法如下：
-![alt text](image-11.png)
+![alt text](wiki-image\image-11.png)
 
 ### 邮箱钓鱼
 
-![image-20260103235642767](image-20260103235642767.png)
+![image-20260103235642767](wiki-image\image-20260103235642767.png)
 
 邮件附件可选择如上添加的模板。
 
-![image-20260103235856106](image-20260103235856106.png)输入任务标题、附件内容等，添加附件信息。
+![image-20260103235856106](wiki-image\image-20260103235856106.png)输入任务标题、附件内容等，添加附件信息。
 
-![image-20260104000203518](image-20260104000203518.png)
+![image-20260104000203518](wiki-image\image-20260104000203518.png)
 
 设置邮件发送者的邮箱。点击SMTP测试可验证邮件是否填写成功。
 
-![image-20260104000705433](image-20260104000705433.png)
+![image-20260104000705433](wiki-image\image-20260104000705433.png)
 
-![image-20260104000943716](image-20260104000943716.png)
+![image-20260104000943716](wiki-image\image-20260104000943716.png)
 
 输入对目标接受者信息导入。
 
-![image-20260103235420617](image-20260103235420617.png)
+![image-20260103235420617](wiki-image\image-20260103235420617.png)
 
 点击详情可查看发送状态，和选择重新发送。
 
@@ -187,13 +187,13 @@ panel:
 
 #### 网页钓鱼记录
 
-![image-20260104001617075](image-20260104001617075.png)
+![image-20260104001617075](wiki-image\image-20260104001617075.png)
 
-![image-20260104001626698](image-20260104001626698.png)
+![image-20260104001626698](wiki-image\image-20260104001626698.png)
 
 点击上钩记录，可查看到用户输入的信息。
 
-![image-20260104001712204](image-20260104001712204.png)
+![image-20260104001712204](wiki-image\image-20260104001712204.png)
 
 点击详情可查看到用户详细输入的具体信息通过JSON形式存储。
 
