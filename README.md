@@ -1,4 +1,4 @@
-# 阿波罗钓鱼演练平台
+# ApolloFish-阿波罗钓鱼演练平台
 
 ## 平台介绍
 
@@ -44,7 +44,7 @@
 ### 运行命令
 命令行执行，例如: 
 > ./ApolloFish_windows_amd64.exe
-
+![alt text](wiki-image/image.png)
 首次运行，会在同目录下生成config.yaml文件，并随机生成后台路径、登录账号、登录密码。请前往config.yaml文件中查看。<br>
 
 ```
