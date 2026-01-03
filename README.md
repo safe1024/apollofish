@@ -130,7 +130,7 @@ panel:
 </body>
 </html>
 ```
-此例子中，只需要在 ```<input type="submit" value="提交">``` 添加属性 ```onclick="login()"``` 即可。<br>
+此例子中，只需要在 ```<button type="button">提交</button>``` 添加属性 ```onclick="login()"``` 即可。<br>
 添加后的body代码:
 ```
     <div class="input-container">
