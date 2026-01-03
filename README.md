@@ -30,7 +30,7 @@
 - [*] 无需复杂的依赖环境
 - [*] 支持跨平台运行
 
-下载地址：https://github.com/safe1024/apollofish/releases
+下载地址：https://github.com/safe1024/apollofish/releases <br>
 阿波罗钓鱼演练平台支持多系统运行，支持x86架构和arm架构。<br>
 若您是Windows，且CPU是Intel、AMD，请下载：ApolloFish_windows_amd64.exe<br>
 若您是Windows，且CPU是骁龙、联发科，请下载：ApolloFish_windows_arm.exe<br>
