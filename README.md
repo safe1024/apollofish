@@ -227,7 +227,7 @@ panel:
 
 若群已满，可扫描下方二维码加我好友，添加微信邀您进群。(备注进群即可，感谢各位师傅关注)<br>
 
-![wxqun](image.png)
+![wxqun](wiki-image/wx.png)
 
 ## 支持我们
 ![wxqun](wiki-image/wxgood.png)
