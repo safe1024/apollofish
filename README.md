@@ -222,18 +222,12 @@ panel:
 ## 技术交流群
 
 
-![wxqun](wiki-image/wxqun.png)
-![wxqun](wiki-image/wxqun2.png)
+<img src="wiki-image/wxqun.png" width="49%">
+<img src="wiki-image/wxqun2.png" width="49%">
 
 若群已满，可扫描下方二维码加我好友，添加微信邀您进群。(备注进群即可，感谢各位师傅关注)<br>
-
-![wxqun](wiki-image/wx.png)
+<img src="wiki-image/wx.png" width="49%">
 
 ## 支持我们
-![wxqun](wiki-image/wxgood.png)
+<img src="wiki-image/wxgood.png" width="49%">
 
-<style>
-    img[alt="wxqun"]{
-        width:49%;
-    }
-</style>
