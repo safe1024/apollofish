@@ -220,6 +220,20 @@ panel:
 
 
 ## 技术交流群
-![alt text](wiki-image/wxqun.png)
-![alt text](wiki-image/wxqun2.png)
-![alt text](wiki-image/wxgood.png)
+
+
+![wxqun](wiki-image/wxqun.png)
+![wxqun](wiki-image/wxqun2.png)
+
+若群已满，可扫描下方二维码加我好友，添加微信邀您进群。(备注进群即可，感谢各位师傅关注)<br>
+
+![wxqun](image.png)
+
+## 支持我们
+![wxqun](wiki-image/wxgood.png)
+
+<style>
+    img[alt="wxqun"]{
+        width:49%;
+    }
+</style>
