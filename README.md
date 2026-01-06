@@ -42,11 +42,11 @@
 若您是Windows，且CPU是Intel、AMD，请下载：ApolloFish_windows_amd64.exe<br>
 若您是Windows，且CPU是骁龙、联发科，请下载：ApolloFish_windows_arm.exe<br>
 
-若您是Macbook/Mac mini/Mac Studio，且CPU是Intel，请下载：ApolloFish_mac_amd64.exe<br>
-若您是Macbook/Mac mini/Mac Studio，且CPU是M系列，请下载：ApolloFish_mac_arm.exe<br>
+若您是Macbook/Mac mini/Mac Studio，且CPU是Intel，请下载：ApolloFish_mac_amd64<br>
+若您是Macbook/Mac mini/Mac Studio，且CPU是M系列，请下载：ApolloFish_mac_arm<br>
 
-若您是Linux或基于Linux内核的国产信创系统，且CPU是Intel、AMD、海光系列，请下载：ApolloFish_linux_amd64.exe<br>
-若您是Linux或基于Linux内核的国产信创系统，且CPU是鲲鹏系列，请下载：ApolloFish_linux_arm.exe<br>
+若您是Linux或基于Linux内核的国产信创系统，且CPU是Intel、AMD、海光系列，请下载：ApolloFish_linux_amd64<br>
+若您是Linux或基于Linux内核的国产信创系统，且CPU是鲲鹏系列，请下载：ApolloFish_linux_arm<br>
 
 ### 运行命令
 命令行执行，例如: 
