@@ -231,3 +231,14 @@ panel:
 ## 支持我们
 <img src="wiki-image/wxgood.png" width="45%">
 
+    感谢打赏排行榜上的每一位大佬，你的支持不仅是鼓励，更是推动项目不断精进的重要力量！
+
+
+| 排名 | 昵称         | 金额     |
+|:----:|:------------|:--------:|
+| 1    | Baymax      | $66.66   |
+| 2    | 农夫三拳     | $20.00   |
+
+
+##  Start 趋势
+[![Star History Chart](https://api.star-history.com/svg?repos=safe1024/apollofish&type=Date)](https://star-history.com/#safe1024/apollofish&Date)
