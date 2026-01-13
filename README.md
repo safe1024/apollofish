@@ -50,9 +50,8 @@
 
 ### 运行命令
 命令行执行，例如: 
-> ./ApolloFish_v1.0.0_windows_amd64.exe
+> ./ApolloFish_v1.0.1_windows_amd64.exe
 <br>
-
 ![alt text](wiki-image/image.png)
 <br>
 首次运行，会在同目录下生成config.yaml文件，并随机生成后台路径、登录账号、登录密码。请前往config.yaml文件中查看。<br>
@@ -226,7 +225,7 @@ panel:
 <img src="wiki-image/wxqun2.png" width="45%">
 
 若群已满，可扫描下方二维码加我好友，添加微信邀您进群。(备注进群即可，感谢各位师傅关注)<br>
-<img src="wiki-image/wx.png" width="45%">
+<img src="wiki-image/wx2.png" width="45%">
 
 ## 支持我们
 <img src="wiki-image/wxgood.png" width="45%">
