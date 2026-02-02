@@ -69,7 +69,7 @@ panel:
 ![image-20260103235226802](wiki-image/image-20260103235226802.png)
 
 ### 首页大屏
-![image-20260103235021911](wiki-image/image-20260103235021911.png)
+![image-v1.0.2-1770001538](wiki-image/image-v1.0.2-1770001538.png)
 
 ### 网页模板
 
@@ -221,12 +221,10 @@ https://github.com/safe1024/apollofish/blob/main/%E9%98%BF%E6%B3%A2%E7%BD%97%E9%
 
 
 ## 技术交流群
-
+团队公众号<br>
 <img src="wiki-image/wxgzh.png" width="45%">
 
-<img src="wiki-image/wxqun2.png" width="45%">
-
-若群已满，可扫描下方二维码加我好友，添加微信邀您进群。(备注进群即可，感谢各位师傅关注)<br>
+可扫描下方二维码加我好友，添加微信邀您进群。(备注进群即可，感谢各位师傅关注)<br>
 <img src="wiki-image/wx2.png" width="45%">
 
 ## 支持我们
@@ -235,13 +233,16 @@ https://github.com/safe1024/apollofish/blob/main/%E9%98%BF%E6%B3%A2%E7%BD%97%E9%
     感谢打赏排行榜上的每一位大佬，你的支持不仅是鼓励，更是推动项目不断精进的重要力量！
 
 
-| 排名 | 昵称         | 金额     |
-|:----:|:------------|:--------:|
-| 1    | Baymax      | 66.66   |
-| 2    | 农夫三拳     | 20.00   |
-| 3    | 杨某人       | 20.00   |
-| 4    | 网名被我吃了       | 10.00   |
+| 排名 | 昵称         | 金额    |
+|:----:|:------------|:-------:|
+| 1    | 张晨         | 1000.00 |
+| 2    | keep passion | 888.88  |
+| 3    | 行锋         | 800.00  |
+| 4    | Another      | 200.00  |
+| 5    | Baymax       | 66.66   |
+| 6    | 农夫三拳     | 20.00   |
+| 7    | 杨某人       | 20.00   |
+| 8    | 网名被我吃了 | 10.00   |
 
 ##  Start 趋势
 [![Star History Chart](https://api.star-history.com/svg?repos=safe1024/apollofish&type=Date)](https://star-history.com/#safe1024/apollofish&Date)
-.
