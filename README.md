@@ -242,7 +242,8 @@ https://github.com/safe1024/apollofish/blob/main/%E9%98%BF%E6%B3%A2%E7%BD%97%E9%
 | 5    | Baymax       | 66.66   |
 | 6    | 农夫三拳     | 20.00   |
 | 7    | 杨某人       | 20.00   |
-| 8    | 网名被我吃了 | 10.00   |
+| 8    | 小黄有点呆       | 16.80   |
+| 9    | 网名被我吃了 | 10.00   |
 
 ##  Start 趋势
 [![Star History Chart](https://api.star-history.com/svg?repos=safe1024/apollofish&type=Date)](https://star-history.com/#safe1024/apollofish&Date)
