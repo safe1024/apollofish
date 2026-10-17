@@ -26,6 +26,16 @@
 
 阿波罗安全风险演练平台仅适用于网络安全防护模拟演练使用。用户需严格遵守国家网络安全相关法律法规，仅在自身授权范围内使用平台，不得利用平台从事任何违法违规或侵犯第三方合法权益的行为。如用户因违规使用平台引发法律责任或相关损失，均由用户自行承担，本团队不承担任何连带或赔偿责任。
 
+<span style="color: red; font-weight: bold; font-size: 24px">部署注意事项：1.0.10版本开始，首次部署Apollofish仅需要确认使用授权后即可使用。</span>
+```
+访问Apollofish授权下载页: http://apollofish.safe1024.com
+下载口令: Apollofish
+```
+
+![alt text](wiki-image/apollofish-authcheck1.png)
+<span style="color: red; font-weight: bold; font-size: 24px">阅读完法律与用途声明后，手动输入使用承诺。</span>
+![alt text](wiki-image/apollofish-authcheck2.png)
+<span style="color: red; font-weight: bold; font-size: 24px">完成使用承诺后，导入离线激活授权文件即可开始使用Apollofish进行开展安全风险演练。</span>
 ### 防溯源声明
 我们团队不会利用此平台进行任何护网或非授权的攻击，请不要溯源我们，也肯定不是我们。
 
@@ -66,7 +76,7 @@ panel:
 使用浏览器访问平台后台，访问路径: http://127.0.0.1:{panel.port}/{panel.path}/<br>
 
 ## 功能说明
-![image-20260103235226802](wiki-image/image-20260103235226802.png)
+![image-20260103235226802](wiki-image/login.png)
 
 ### 首页大屏
 ![image-v1.0.2-1770001538](wiki-image/image-v1.0.2-1770001538.png)
@@ -213,25 +223,43 @@ v1.0.1版本已发布！若您使用平台自带的"无害化演示附件"即可
 如果您是自写的程序，需参考此文章的教程，把上钩状态反馈给平台：<br>
 https://github.com/safe1024/apollofish/blob/main/%E9%98%BF%E6%B3%A2%E7%BD%97%E9%92%93%E9%B1%BC%E6%BC%94%E7%BB%83%E5%B9%B3%E5%8F%B0-%E9%99%84%E4%BB%B6%E8%BF%90%E8%A1%8C%E5%9B%9E%E8%B0%83%E6%8E%A5%E5%8F%A3%EF%BC%88v1.0.1%E7%89%88%E6%9C%AC%EF%BC%89.md
 
-### AI生成克隆(下版本发布)
+### AI生成
+![alt text](wiki-image/ai-generate.png)
 
-### 系统设置(下版本发布)
+### 系统设置
+![alt text](wiki-image/ai-setting.png)
 
-### 上线通知(下版本发布)
+### 上线通知
+![alt text](wiki-image/push.png)
 
-
-## 技术交流群
+## 关于我们
 团队公众号<br>
 <img src="wiki-image/wxgzh.png" width="45%">
 
-可扫描下方二维码加我好友，添加微信邀您进群。(备注进群即可，感谢各位师傅关注)<br>
+知识星球<br>
+```
+为了更好继续维护好本项目
+若您使用本产品进行商业用途，请加入知识星球，尊重劳动者创作。仅199，可获取enterprise企业版。
+1、加入知识星球可享受最新版本，功能更全面。内部更新更快，优先解决内部知识圈内成员问题，赠送一次，免费协助指导完成内部演练服务。
+2、知识圈子邀请行业安全厂商病毒专家、反诈专家，定期分享最近钓鱼木马原理，揭秘最近钓鱼技术手段。
+3、分享近年国内外最近钓鱼手段、Hw钓鱼案例。
+```
+
+<img src="wiki-image/zsxq.png" width="90%">
+
+交流群<br>
+若群已满人或过期，您可扫描下方二维码加我好友，添加微信邀您进群。(备注进群即可，感谢各位师傅关注)
+<img src="wiki-image/wxqun.png" width="45%">
 <img src="wiki-image/wx2.png" width="45%">
+
 
 ## 支持我们
 <img src="wiki-image/wxgood.png" width="45%">
 
-    感谢打赏排行榜上的每一位大佬，你的支持不仅是鼓励，更是推动项目不断精进的重要力量！
 
+```
+感谢打赏排行榜上的每一位大佬，你的支持不仅是鼓励，更是推动项目不断精进的重要力量！
+```
 
 | 排名 | 昵称         | 金额    |
 |:----:|:------------|:-------:|
@@ -239,11 +267,17 @@ https://github.com/safe1024/apollofish/blob/main/%E9%98%BF%E6%B3%A2%E7%BD%97%E9%
 | 2    | keep passion | 888.88  |
 | 3    | 行锋         | 800.00  |
 | 4    | Another      | 200.00  |
-| 5    | Baymax       | 66.66   |
-| 6    | 农夫三拳     | 20.00   |
-| 7    | 杨某人       | 20.00   |
-| 8    | 小黄有点呆       | 16.80   |
-| 9    | 网名被我吃了 | 10.00   |
+| 5    | Yjk          | 88.00   |
+| 6    | Baymax       | 66.66   |
+| 7    | 0_0番茄炒鸡蛋 | 38.88  |
+| 8    | 王伟         | 30.00  |
+| 9    | 农夫三拳     | 20.00   |
+| 10    | 杨某人       | 20.00   |
+| 11    | Black Man   | 20.00 |
+| 12    | 小黄有点呆   | 16.80   |
+| 13    | 网名被我吃了 | 10.00   |
+| 14   | WAN         | 10.00   |
+| 15   | 安全圈列兵   | 1.00   |
 
 ##  Start 趋势
 [![Star History Chart](https://api.star-history.com/svg?repos=safe1024/apollofish&type=Date)](https://star-history.com/#safe1024/apollofish&Date)
